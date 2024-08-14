@@ -1,0 +1,10 @@
+.nav-main {
+  display: flex;
+  gap: 2rem;
+  & .link-nav:nth-child(1) {
+    color: black;
+  }
+  & .link-nav:nth-child(2) {
+    color: #00001a;
+  }
+}
